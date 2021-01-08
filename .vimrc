@@ -7,7 +7,6 @@
 set nocompatible
 
 " enable syntax and plugins (for netrw)
-syntax enable
 filetype plugin on
 
 " FINDING FILES:
